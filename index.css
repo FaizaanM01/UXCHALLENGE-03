@@ -77,4 +77,48 @@ color: black;
     padding: 30px;
     
   }
+
+  .giv {
+    background-color: aqua; 
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .giv li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+  }
+
+  .card-text-center{
+
+    text-align: center;
+
+
+  }
+
+  .card-body{
+
+    text-align: center;
+  }
+
+  .nav{
+
     
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+
+  }
+
+  .nav li{
+
+
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+
+  }
